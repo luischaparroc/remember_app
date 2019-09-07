@@ -16,4 +16,13 @@
     <string name="profile_button">Perfil</string>
     <string name="notification_button">Notificaciones</string>
     <string name="message_button">Mensajes</string>
+    <string name="home_title">Home</string>
+    <string name="button_home_1">Revivir recuerdo cafetería</string>
+    <string name="button_home_2">Revivir recuerdo sala</string>
+    <string name="button_home_3">Revivir recuerdo habitación</string>
+    <string name="messages_title">Messages</string>
+    <string name="button_messages_1">Bienvenido a Remember...</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="button_notifications_1">Extender a 20 años</string>
+    <string name="button_notifications_2">Extender a PLAN ALWAYS</string>
 </resources>
