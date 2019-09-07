@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Remember</string>
+    <string name="name">REMEMBER</string>
+    <string name="register">Create account</string>
+    <string name="enter">Log in</string>
+    <string name="logo">Logo</string>
+    <string name="terms">Términos y condiciones</string>
+    <string name="terms_text">La aplicación REMEMBER brinda a sus usuarios la posibilidad de vivir momentos del pasado basándose en dos receptores de dopamina y unas neuronas específicas localizadas en los llamados “mushroom bodies”, unos paquetes muy densos de neuronas que se relacionan con el aprendizaje y la memoria. La aplicación se conecta con los receptores dDA1, siendo el responsable de mantener los recuerdos, y DAMB, el cual produce el olvido de los conocimientos recientemente adquiridos.</string>
+    <string name="update">Actualización del tiempo</string>
+    <string name="update_1">La aplicación REMEMBER le da, gratuitamente, la posibilidad de vivir una experiencia única a través de sus recuerdos por un tiempo limitado de 3 meses. </string>
+    <string name="update_2">Si su experiencia es satisfactoria, podrá extenderla por 2 años, asumiendo el costo de este plan. Usted podrá extender su interacción con la aplicación hasta 18 años más, si así lo desea. Al culminar este periodo, la aplicación también le ofrece un plan eterno: este es el PLAN ALWAYS cuyo objeto es darle en perpetuidad el servicio.</string>
+    <string name="update_3">Usted tiene la opción de seguir o salir. En el caso de no elegir, la aplicación lo hará por usted.</string>
+    <string name="update_4">Si quiere vivir esta gran experiencia, coloque su índice derecho sobre el lector de huellas digital. </string>
+    <string name="text_trial_mode">Modo de prueba gratuito</string>
+    <string name="home_button">Principal</string>
+    <string name="profile_button">Perfil</string>
+    <string name="notification_button">Notificaciones</string>
+    <string name="message_button">Mensajes</string>
+</resources>
