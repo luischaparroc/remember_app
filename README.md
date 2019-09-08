@@ -4,7 +4,7 @@ This is an application developed for the short film that bears the same name. Th
 ## About the short film
 Remember was released in [SmartFilms](https://smartfilms.com.co/) on September 8, 2019 :movie_camera:. The short film was recorded only with smartphones :iphone:. "*Aficionado Motorola*" was the category in which the team participated with the short film.
 
-![Short film poster ](./app/src/main/res/drawable/poster.jpeg)
+<img src="./app/src/main/res/drawable/poster.jpeg" width="512" height="615" alt="Short film poster">
 
 ## About the app
 ### Technologies
