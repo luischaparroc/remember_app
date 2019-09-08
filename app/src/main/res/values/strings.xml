@@ -25,4 +25,7 @@
     <string name="notifications_title">Notifications</string>
     <string name="button_notifications_1">Extender a 20 años</string>
     <string name="button_notifications_2">Extender a PLAN ALWAYS</string>
+    <string name="alert_title">Extender plan</string>
+    <string name="alert_option_1">ACEPTO</string>
+    <string name="alert_option_2">NO ACEPTO</string>
 </resources>
