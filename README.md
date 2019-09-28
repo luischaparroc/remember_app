@@ -1,4 +1,4 @@
-# Remember
+# Remember [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 This is an application developed for the short film that bears the same name. The characters use it to live happy past moments :hourglass:
 
 ## About the short film
